@@ -1,0 +1,18 @@
+smart-attendance-system/
+├── static/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── attendance.js
+│   └── images/
+├── templates/
+│   ├── login.html
+│   ├── register_student.html
+│   ├── admin_dashboard.html
+│   ├── student_dashboard.html
+│   ├── edit_student.html
+│   ├── attendance.html
+├── app.py
+├── attendance.db
+├── requirements.txt
+└── README.md
